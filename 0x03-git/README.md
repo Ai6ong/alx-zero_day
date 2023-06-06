@@ -1,2 +1,2 @@
-my second readme for the alx-zero day project
+my second updated readme for the alx-zero_day project
 
